@@ -1,0 +1,157 @@
+Isolate	Medium	Treatment	Dilution	Replicate	Morphotype	Genotype	Identification	Sequenced 	Yeast or filamentous
+SF1	YMS	DMSO	1	2	SM1	SG1	Penicillium aff. nudgee	Yes	filamentous
+SF2	YMS	DMSO	1	1	SM2	SG2	Penicillium aff. spathulatum		filamentous
+SF3	YMS	DMSO	1	1	1	A	Aspergillus fumigatus		filamentous
+SF4	YMS	DMSO	1	1	12	SG3	Penicillium aff. brevicompactum	Yes	filamentous
+SF5	YMS	DMSO	1	4	11	E	Ascochyta phacae		filamentous
+SF6	YMS	DMSO	1	4	11	E	Ascochyta phacae		filamentous
+SF7	YMS	DMSO	1	4	11	E	Ascochyta phacae		filamentous
+SF8	PDA	DMSO	1	4	11	SG4	Ascochyta phacae		filamentous
+SF9	PDA	DMSO	1	4	11	SG5	Ascochyta phacae		filamentous
+SF10	PDA	DMSO	1	4	11	SG6	Ascochyta phacae		filamentous
+SF11	PDA	DMSO	1	4	11	SG7	Ascochyta phacae		filamentous
+SF12	PDA	DMSO	1	4	SM3	I	Talaromyces sp.	Yes	filamentous
+SF13	PDA	DMSO	0.1	4	11	SG8	Ascochyta phacae		filamentous
+SF14	PDA	Fluconazole	1	3	SM4	I	Penicillium bialowiezense	Yes	filamentous
+SF15	PDA	Fluconazole	1	1	SM5	I	Unknown	Yes	filamentous
+SF16	PDA	Fluconazole	1	2	1	SG9	Unknown	Yes	filamentous
+SF17	PDA	Fluconazole	0.1	3	SM6	I	Penicillium bialowiezense	Yes	filamentous
+SF18	Sabourand	DMSO	1	4	9	L	Penicillium aff. nudgee	Yes	filamentous
+SF19	Czapek	DMSO	0.1	2	7	M?	Penicillium aff. chrysogenum	Yes	filamentous
+SF20	Sabourand	Fluconazole	1	3	12	K	Penicillium bialowiezense	Yes	filamentous
+SF21	Czapek	Fluconazole	1	3	SM7	K	Penicillium bialowiezense	Yes	filamentous
+SF22	Sabourand	DMSO	0.01	1	4	D	Aspergillus fumigatus		filamentous
+SF23	PDA	DMSO	1	4	SM8	SG10	Ascochyta phacae	Yes	filamentous
+SF24	Czapek	DMSO	1	4	SM9	H	Unknown	Yes	filamentous
+SF25	Sabourand	DMSO	1	4	11	E	Ascochyta phacae		filamentous
+SF26	Sabourand	DMSO	1	4	11	E	Ascochyta phacae		filamentous
+SF27	Czapek	DMSO	1	4	11	E	Ascochyta phacae		filamentous
+SF28	Czapek	DMSO	1	4	11	E	Ascochyta phacae		filamentous
+SF29	Czapek	DMSO	1	4	11	E	Ascochyta phacae		filamentous
+SF30	Czapek	DMSO	1	4	11	E	Ascochyta phacae		filamentous
+SF31	Czapek	DMSO	0.1	2	7	M?	Unknown	Yes	filamentous
+SF32	PDA	Fluconazole	1	2	SM10	SG11	Penicillium aff. brevicompactum	Yes	filamentous
+SF33	PDA	DMSO	1	4	SM11	SG12	Unknown	Yes	filamentous
+SF34	PDA	DMSO	1	4	12	SG13	Penicillium aff. olsonii	Yes	filamentous
+SF35	Sabourand	Fluconazole	1	3	12	K	Penicillium bialowiezense	Yes	filamentous
+SF36	Sabourand	Fluconazole	1	3	12	K	Penicillium aff. bialowiezense		filamentous
+SF37	Sabourand	Fluconazole	1	3	3	B	Penicillium aff. bialowiezense		filamentous
+SF38	YMS	DMSO	1	2	9	L	Penicillium aff. nudgee		filamentous
+SF39	YMS	DMSO	1	1	3	C	Penicillium brevicompactum		filamentous
+SF40	YMS	DMSO	1	1	4	D	Aspergillus fumigatus	Yes	filamentous
+SF41	YMS	DMSO	1	1	3	C	Penicillium aff. brevicompactum	Yes	filamentous
+SF42	YMS	DMSO	1	1	SM12	H	Penicillium aff. spathulatum	Yes	filamentous
+SF43	YMS	DMSO	0.01	4	SM13	H	Saitozyma podzolica		yeast
+SF44	YMS	DMSO	1	3	SM14	SG14	Aspergillus fumigatus	Yes	filamentous
+SF45	YMS	DMSO	1	4	11	E	Ascochyta phacae		filamentous
+SF46	YMS	DMSO	1	4	11	E	Ascochyta phacae		filamentous
+SF47	YMS	DMSO	1	4	11	E	Ascochyta phacae		filamentous
+SF48	PDA	Fluconazole	1	1	5	SG15	Penicillium chrysogenum	Yes	filamentous
+SF49	PDA	Fluconazole	1	2	1	SG16	Unknown	Yes	filamentous
+SF50	PDA	Fluconazole	1	3	2	O	Penicillium bialowiezense	Yes	filamentous
+SF51	PDA	DMSO	1	4	5	SG17	Penicillium aff. olsonii	Yes	filamentous
+SF52	PDA	Fluconazole	1	3	SM15	SG18	Penicillium bialowiezense	Yes	filamentous
+SF53	PDA	Fluconazole	1	3	SM16	SG19	Penicillium bialowiezense	Yes	filamentous
+SF54	PDA	Fluconazole	1	3	5	B	Penicillium bialowiezense	Yes	filamentous
+SF55	PDA	DMSO	1	2	SM17	H	Penicillium aff. anthracinoglaciei	Yes	filamentous
+SF56	PDA	Fluconazole	1	3	2	O	Penicillium bialowiezense	Yes	filamentous
+SF57	Czapek	Fluconazole	1	2	SM18	E	Penicillium aff. bialowiezense	Yes	filamentous
+SF58	Czapek	Fluconazole	1	3	5	B	Penicillium aff. bialowiezense		filamentous
+SF59	Czapek	DMSO	0.1	2	3	B	Unknown		filamentous
+SF60	Czapek	DMSO	0.01	1	5	B	Penicillium aff. bialowiezense		filamentous
+SF61	Sabourand	Fluconazole	0.1	1	SM19	SG20	Penicillium aff. nudgee	Yes	filamentous
+SF62	Sabourand	DMSO	1	4	SM20	SG21	Ascochyta phacae	Yes	filamentous
+SF63	Sabourand	Fluconazole	1	3	1	SG22	Penicillium bialowiezense	Yes	filamentous
+SF64	Sabourand	Fluconazole	1	3	3	B	Penicillium aff. bialowiezense		filamentous
+SF65	Sabourand	Fluconazole	1	3	12	K	Penicillium bialowiezense	Yes	filamentous
+SF66	YMS	DMSO	1	1	SM21	H	Pseudogymnoascus sp.	Yes	filamentous
+SF67	YMS	DMSO	1	4	SM22	H	Unknown	Yes	filamentous
+SF68	YMS	DMSO	1	2	SM23	H	Pseudogymnoascus sp.	Yes	filamentous
+SF69	YMS	DMSO	1	3	1	A	Aspergillus fumigatus		filamentous
+SF70	YMS	DMSO	1	4	SM24	H	Ramularia sp.	Yes	filamentous
+SF71	YMS	DMSO	1	4	SM25	H	Ramularia sp.	Yes	filamentous
+SF72	YMS	DMSO	1	1	SM26	SG23	Penicillium bialowiezense	Yes	filamentous
+SF73	YMS	DMSO	1	2	5	B	Penicillium aff. bialowiezense		filamentous
+SF74	PDA	Fluconazole	1	1	SM27	H	Penicillium chrysogenum	Yes	filamentous
+SF75	PDA	Fluconazole	1	3	12	SG24	Unknown	Yes	filamentous
+SF76	YMS	Fluconazole	1	3	SM28	H	Pseudogymnoascus sp.	Yes	filamentous
+SF77	YMS	Fluconazole	1	4	SM29	H	Unknown	Yes	filamentous
+SF78	YMS	Fluconazole	1	4	1	A	Aspergillus fumigatus		filamentous
+SF79	YMS	DMSO	1	4	1	A	Aspergillus fumigatus		filamentous
+SF80	YMS	DMSO	0.1	4	SM30	G	Aspergillus fumigatus	Yes	filamentous
+SF81	YMS	DMSO	0.1	3	SM31	G	Aspergillus fumigatus	Yes	filamentous
+SF82	YMS	Fluconazole	1	4	1	A	Aspergillus fumigatus		filamentous
+SF83	YMS	DMSO	1	4	1	A	Aspergillus fumigatus		filamentous
+SF84	YMS	Fluconazole	1	4	1	A	Aspergillus fumigatus		filamentous
+SF85	YMS	DMSO	1	1	2	C	Penicillium aff. brevicompactum	Yes	filamentous
+SF86	YMS	DMSO	1	2	9	L	Penicillium aff. nudgee	Yes	filamentous
+SF87	YMS	DMSO	1	3	1	A	Aspergillus fumigatus		filamentous
+SF88	PDA	DMSO	1	3	4	D	Aspergillus fumigatus		filamentous
+SF89	PDA	DMSO	1	3	SM32	SG25	Pseudogymnoascus sp.	Yes	filamentous
+SF90	PDA	DMSO	1	1	1	A	Aspergillus fumigatus		filamentous
+SF91	PDA	DMSO	0.1	3	3	B	Penicillium aff. bialowiezense		filamentous
+SF92	PDA	DMSO	0.1	3	SM33	SG26	Penicillium aff. brevicompactum	Yes	filamentous
+SF93	PDA	DMSO	0.1	2	7	SG27	Unknown	Yes	filamentous
+SF94	PDA	DMSO	0.1	2	SM34	SG28	Unknown	Yes	filamentous
+SF95	PDA	Fluconazole	0.1	3	SM35	H	Penicillium bialowiezense	Yes	filamentous
+SF96	PDA	Fluconazole	0.01	4	1	A	Aspergillus fumigatus		filamentous
+SF97	PDA	Fluconazole	0.01	4	3	B	Penicillium aff. bialowiezense		filamentous
+SF98	PDA	Fluconazole	1	2	3	SG29	Penicillium aff. brevicompactum	Yes	filamentous
+SF99	Czapek	DMSO	0.01	3	SM36	SG30	Aspergillus fumigatus	Yes	filamentous
+SF100	Czapek	DMSO	0.01	3	11	E	Ascochyta phacae		filamentous
+SF101	Czapek	DMSO	1	4	SM37	SG31	Penicillium aff. bialowiezense	Yes	filamentous
+SF102	Czapek	DMSO	1	2	4	D	Aspergillus fumigatus		filamentous
+SF103	Czapek	DMSO	1	3	4	D	Aspergillus fumigatus		filamentous
+SF104	Czapek	Fluconazole	1	3	2	B	Penicillium aff. bialowiezense		filamentous
+SF105	Sabourand	Fluconazole	0.1	1	9	L	Penicillium aff. nudgee	Yes	filamentous
+SF106	Sabourand	Fluconazole	1	3	3	B	Penicillium aff. bialowiezense		filamentous
+SF107	Sabourand	Fluconazole	0.01	4	4	D	Aspergillus fumigatus		filamentous
+SF108	Sabourand	DMSO	1	4	9	N	Penicillium chrysogenum	Yes	filamentous
+SF109	Sabourand	DMSO	1	4	9	N	Penicillium chrysogenum	Yes	filamentous
+SF110	Sabourand	DMSO	1	3	10	F	Penicillium aff. nudgee	Yes	filamentous
+SF111	Sabourand	DMSO	0.01	1	10	F	Penicillium aff. nudgee	Yes	filamentous
+SF112	PDA	Fluconazole	1	4	1	A	Aspergillus fumigatus		filamentous
+SF113	YMS	DMSO	0.1	3	1	A	Aspergillus fumigatus		filamentous
+SF114	PDA	DMSO	1	3	1	A	Aspergillus fumigatus		filamentous
+SF115	PDA	DMSO	1	3	1	A	Aspergillus fumigatus		filamentous
+SF116	YMS	Fluconazole	1	1	1	SG32	Aspergillus fumigatus	Yes	filamentous
+SF117	YMS	Fluconazole	1	4	1	A	Aspergillus fumigatus		filamentous
+SF118	PDA	Fluconazole	0.01	1	SM38	G	Aspergillus fumigatus	Yes	filamentous
+SF119	YMS	DMSO	0.1	4	SM39	G	Aspergillus fumigatus	Yes	filamentous
+SF120	PDA	Fluconazole	0.01	1	1	A	Aspergillus fumigatus		filamentous
+SF121	PDA	DMSO	0.1	4	11	E	Ascochyta phacae	Yes	filamentous
+SF122	YMS	Fluconazole	0.01	3	SM40	J	Aspergillus fumigatus	Yes	filamentous
+SF123	Czapek	Fluconazole	0.01	2	2	B	Penicillium aff. bialowiezense		filamentous
+SF124	Czapek	Fluconazole	1	1	3	B	Penicillium aff. bialowiezense		filamentous
+SF125	Czapek	Fluconazole	0.1	2	SM41	J	Phialemonium sp.	Yes	filamentous
+SF126	Czapek	Fluconazole	0.01	3	SM42	J	Penicillium bialowiezense	Yes	filamentous
+SF127	Czapek	DMSO	0.01	4	SM43	B	Penicillium bialowiezense	Yes	filamentous
+SF128	Czapek	Fluconazole	3	1	3	B	Penicillium bialowiezense	Yes	filamentous
+SF129	Czapek	DMSO	0.01	4	5	B	Penicillium aff. bialowiezense		filamentous
+SF130	Czapek	Fluconazole	0.1	4	1	A	Aspergillus fumigatus		filamentous
+SF131	Czapek	Fluconazole	0.01	1	2	B	Penicillium aff. bialowiezense		filamentous
+SF132	Czapek	Fluconazole	0.1	1	4	D	Aspergillus fumigatus		filamentous
+SF133	Czapek	Fluconazole	1	4	2	B	Penicillium aff. bialowiezense		filamentous
+SF134	Czapek	DMSO	0.01	2	SM44	B	Penicillium bialowiezense	Yes	filamentous
+SF135	Czapek	DMSO	0.01	2	2	B	Penicillium aff. bialowiezense		filamentous
+SF136	Czapek	DMSO	0.1	3	2	B	Penicillium aff. bialowiezense		filamentous
+SF137	PDA	DMSO	1	2	SM45	G	Penicillium bialowiezense	Yes	filamentous
+SF138	YMS	Fluconazole	0.1	3	2	B	Penicillium aff. bialowiezense		filamentous
+SF139	Sabourand	DMSO	1	1	4	D	Aspergillus fumigatus		filamentous
+SF140	Sabourand	DMSO	1	2	5	B	Penicillium aff. bialowiezense		filamentous
+SF141	Sabourand	DMSO	1	2	SM46	J	Penicillium bialowiezense	Yes	filamentous
+SF142	Czapek	Fluconazole	0.1	2	SM47	SG33	Penicillium bialowiezense	Yes	filamentous
+SF143	Czapek	DMSO	1	2	1	A	Aspergillus fumigatus		filamentous
+SF144	Czapek	DMSO	1	3	1	A	Aspergillus fumigatus		filamentous
+SF145	Czapek	Fluconazole	1	2	1	A	Aspergillus fumigatus		filamentous
+SF146	Czapek	DMSO	1	2	3	SG34	Unknown	Yes	filamentous
+SF147	Czapek	DMSO	1	3	4	D	Aspergillus fumigatus		filamentous
+SF148	Czapek	Fluconazole	0.1	3	SM48	B	Unknown		filamentous
+SF149	Czapek	Fluconazole	0.1	3	3	B	Penicillium aff. anthracinoglaciei		filamentous
+SF150	Sabourand	DMSO	1	3	SM49	D	Penicillium chrysogenum	Yes	filamentous
+SF151	Sabourand	DMSO	1	3	SM50	D	Penicillium chrysogenum	Yes	filamentous
+SF152	Sabourand	DMSO	0.01	1	4	D	Aspergillus fumigatus		filamentous
+SF153	Czapek	Fluconazole	0.01	1	2	B	Penicillium aff. bialowiezense		filamentous
+SF154	PDA	Fluconazole	0.1	1	4	D	Aspergillus fumigatus		filamentous
+SF155	YMS	DMSO	1	2	SM51	SG35	Phialemonium sp.	Yes	filamentous
+SF156	PDA	Fluconazole	1	4	4	D	Aspergillus fumigatus	Yes	filamentous

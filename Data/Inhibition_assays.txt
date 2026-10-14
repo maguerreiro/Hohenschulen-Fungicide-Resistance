@@ -1,0 +1,484 @@
+Isolate	Group	Replicate	Value	Species	Source	Concentration
+SF83	0DMSO	1	4.321	Aspergillus fumigatus	Control	0
+SF83	0DMSO	2	4.528	Aspergillus fumigatus	Control	0
+SF83	0DMSO	3	4.2645	Aspergillus fumigatus	Control	0
+SF83	0Fluconazole3	1	4.5555	Aspergillus fumigatus	Control	3
+SF83	0Fluconazole3	2	4.515	Aspergillus fumigatus	Control	3
+SF83	0Fluconazole3	3	4.1775	Aspergillus fumigatus	Control	3
+SF83	1Fluconazole9.6	1	3.735	Aspergillus fumigatus	Control	16
+SF83	1Fluconazole9.6	2	3.735	Aspergillus fumigatus	Control	16
+SF83	1Fluconazole9.6	3	3.823	Aspergillus fumigatus	Control	16
+SF83	2Fluconazole19.2	1	3.341	Aspergillus fumigatus	Control	32
+SF83	2Fluconazole19.2	2	3.3495	Aspergillus fumigatus	Control	32
+SF83	2Fluconazole19.2	3	3.4855	Aspergillus fumigatus	Control	32
+SF83	3Fluconazole57.6	1	2.4075	Aspergillus fumigatus	Control	96
+SF83	3Fluconazole57.6	2	2.5585	Aspergillus fumigatus	Control	96
+SF83	3Fluconazole57.6	3	2.5045	Aspergillus fumigatus	Control	96
+SF83	4Fluconazole153.6	1	2.0365	Aspergillus fumigatus	Control	256
+SF83	4Fluconazole153.6	2	2.184	Aspergillus fumigatus	Control	256
+SF83	4Fluconazole153.6	3	2.1895	Aspergillus fumigatus	Control	256
+SF83	5Fluconazole375	1	0.9985	Aspergillus fumigatus	Control	625
+SF83	5Fluconazole375	2	1.458	Aspergillus fumigatus	Control	625
+SF83	5Fluconazole375	3	1.115	Aspergillus fumigatus	Control	625
+SF110	0DMSO	1	3.8645	P. aff. nudgee	Control	0
+SF110	0DMSO	2	3.6485	P. aff. nudgee	Control	0
+SF110	0DMSO	3	3.449	P. aff. nudgee	Control	0
+SF110	0Fluconazole3	1	3.42	P. aff. nudgee	Control	3
+SF110	0Fluconazole3	2	3.652	P. aff. nudgee	Control	3
+SF110	0Fluconazole3	3	3.758	P. aff. nudgee	Control	3
+SF110	1Fluconazole9.6	1	2.499	P. aff. nudgee	Control	16
+SF110	1Fluconazole9.6	2	2.254	P. aff. nudgee	Control	16
+SF110	1Fluconazole9.6	3	2.4085	P. aff. nudgee	Control	16
+SF110	2Fluconazole19.2	1	1.958	P. aff. nudgee	Control	32
+SF110	2Fluconazole19.2	2	2.28	P. aff. nudgee	Control	32
+SF110	2Fluconazole19.2	3	1.7775	P. aff. nudgee	Control	32
+SF110	3Fluconazole57.6	1	1.9965	P. aff. nudgee	Control	96
+SF110	3Fluconazole57.6	2	2.1125	P. aff. nudgee	Control	96
+SF110	3Fluconazole57.6	3	2.383	P. aff. nudgee	Control	96
+SF110	4Fluconazole153.6	1	1.8355	P. aff. nudgee	Control	256
+SF110	4Fluconazole153.6	2	1.1595	P. aff. nudgee	Control	256
+SF110	4Fluconazole153.6	3	1.536	P. aff. nudgee	Control	256
+SF110	5Fluconazole375	1	1.6745	P. aff. nudgee	Control	625
+SF110	5Fluconazole375	2	1.539	P. aff. nudgee	Control	625
+SF110	5Fluconazole375	3	1.4425	P. aff. nudgee	Control	625
+SF50	0DMSO	1	2.1125	P. bialowiezense	Fluconazole	0
+SF50	0DMSO	2	2.8405	P. bialowiezense	Fluconazole	0
+SF50	0DMSO	3	2.761	P. bialowiezense	Fluconazole	0
+SF50	0Fluconazole3	1	2.3905	P. bialowiezense	Fluconazole	3
+SF50	0Fluconazole3	2	2.351	P. bialowiezense	Fluconazole	3
+SF50	0Fluconazole3	3	2.41	P. bialowiezense	Fluconazole	3
+SF50	1Fluconazole9.6	1	2.0595	P. bialowiezense	Fluconazole	16
+SF50	1Fluconazole9.6	2	2.142	P. bialowiezense	Fluconazole	16
+SF50	1Fluconazole9.6	3	2.0065	P. bialowiezense	Fluconazole	16
+SF50	2Fluconazole19.2	1	2.046	P. bialowiezense	Fluconazole	32
+SF50	2Fluconazole19.2	2	2.142	P. bialowiezense	Fluconazole	32
+SF50	2Fluconazole19.2	3	1.9305	P. bialowiezense	Fluconazole	32
+SF50	3Fluconazole57.6	1	1.1325	P. bialowiezense	Fluconazole	96
+SF50	3Fluconazole57.6	2	1.1985	P. bialowiezense	Fluconazole	96
+SF50	3Fluconazole57.6	3	1.1755	P. bialowiezense	Fluconazole	96
+SF50	4Fluconazole153.6	1	0.626	P. bialowiezense	Fluconazole	256
+SF50	4Fluconazole153.6	2	0.639	P. bialowiezense	Fluconazole	256
+SF50	4Fluconazole153.6	3	0.6055	P. bialowiezense	Fluconazole	256
+SF50	5Fluconazole375	1	0.553	P. bialowiezense	Fluconazole	625
+SF50	5Fluconazole375	2	0.53	P. bialowiezense	Fluconazole	625
+SF50	5Fluconazole375	3	0.533	P. bialowiezense	Fluconazole	625
+SF40	0DMSO	1	5.0145	Aspergillus fumigatus	Control	0
+SF40	0DMSO	2	5.7045	Aspergillus fumigatus	Control	0
+SF40	0DMSO	3	5.908	Aspergillus fumigatus	Control	0
+SF40	0Fluconazole3	1	5.0735	Aspergillus fumigatus	Control	3
+SF40	0Fluconazole3	2	5.1555	Aspergillus fumigatus	Control	3
+SF40	0Fluconazole3	3	5.324	Aspergillus fumigatus	Control	3
+SF40	1Fluconazole9.6	1	4.699	Aspergillus fumigatus	Control	16
+SF40	1Fluconazole9.6	2	4.634	Aspergillus fumigatus	Control	16
+SF40	1Fluconazole9.6	3	4.758	Aspergillus fumigatus	Control	16
+SF40	2Fluconazole19.2	1	3.744	Aspergillus fumigatus	Control	32
+SF40	2Fluconazole19.2	2	4.2745	Aspergillus fumigatus	Control	32
+SF40	2Fluconazole19.2	3	0.9905	Aspergillus fumigatus	Control	32
+SF40	3Fluconazole57.6	1	3.275	Aspergillus fumigatus	Control	96
+SF40	3Fluconazole57.6	2	3.249	Aspergillus fumigatus	Control	96
+SF40	3Fluconazole57.6	3	3.343	Aspergillus fumigatus	Control	96
+SF40	4Fluconazole153.6	1	2.3435	Aspergillus fumigatus	Control	256
+SF40	4Fluconazole153.6	2	2.476	Aspergillus fumigatus	Control	256
+SF40	4Fluconazole153.6	3	2.974	Aspergillus fumigatus	Control	256
+SF40	5Fluconazole375	1	1.766	Aspergillus fumigatus	Control	625
+SF40	5Fluconazole375	2	2.1635	Aspergillus fumigatus	Control	625
+SF40	5Fluconazole375	3	2.155	Aspergillus fumigatus	Control	625
+SF39	0DMSO	1	2.508	P. brevicompactum	Control	0
+SF39	0DMSO	2	2.582	P. brevicompactum	Control	0
+SF39	0DMSO	3	2.5785	P. brevicompactum	Control	0
+SF39	0Fluconazole3	1	2.4845	P. brevicompactum	Control	3
+SF39	0Fluconazole3	2	2.676	P. brevicompactum	Control	3
+SF39	0Fluconazole3	3	2.7645	P. brevicompactum	Control	3
+SF39	1Fluconazole9.6	1	2.4135	P. brevicompactum	Control	16
+SF39	1Fluconazole9.6	2	2.431	P. brevicompactum	Control	16
+SF39	1Fluconazole9.6	3	2.4135	P. brevicompactum	Control	16
+SF39	2Fluconazole19.2	1	2.4165	P. brevicompactum	Control	32
+SF39	2Fluconazole19.2	2	2.198	P. brevicompactum	Control	32
+SF39	2Fluconazole19.2	3	2.039	P. brevicompactum	Control	32
+SF39	3Fluconazole57.6	1	1.983	P. brevicompactum	Control	96
+SF39	3Fluconazole57.6	2	2.11	P. brevicompactum	Control	96
+SF39	3Fluconazole57.6	3	2.213	P. brevicompactum	Control	96
+SF39	4Fluconazole153.6	1	2.216	P. brevicompactum	Control	256
+SF39	4Fluconazole153.6	2	2.443	P. brevicompactum	Control	256
+SF39	4Fluconazole153.6	3	2.384	P. brevicompactum	Control	256
+SF39	5Fluconazole375	1	1.8765	P. brevicompactum	Control	625
+SF39	5Fluconazole375	2	2.225	P. brevicompactum	Control	625
+SF39	5Fluconazole375	3	2.219	P. brevicompactum	Control	625
+SF6	0DMSO	1	4.321	Ascochyta phacae	Control	0
+SF6	0DMSO	2	4.528	Ascochyta phacae	Control	0
+SF6	0DMSO	3	4.2645	Ascochyta phacae	Control	0
+SF6	0Fluconazole3	1	4.5555	Ascochyta phacae	Control	3
+SF6	0Fluconazole3	2	4.515	Ascochyta phacae	Control	3
+SF6	0Fluconazole3	3	4.1775	Ascochyta phacae	Control	3
+SF6	1Fluconazole9.6	1	2.286	Ascochyta phacae	Control	16
+SF6	1Fluconazole9.6	2	2.577	Ascochyta phacae	Control	16
+SF6	1Fluconazole9.6	3	2.5415	Ascochyta phacae	Control	16
+SF6	2Fluconazole19.2	1	2.4995	Ascochyta phacae	Control	32
+SF6	2Fluconazole19.2	2	2.3915	Ascochyta phacae	Control	32
+SF6	2Fluconazole19.2	3	2.486	Ascochyta phacae	Control	32
+SF6	3Fluconazole57.6	1	0.76	Ascochyta phacae	Control	96
+SF6	3Fluconazole57.6	2	0.86	Ascochyta phacae	Control	96
+SF6	3Fluconazole57.6	3	1.701	Ascochyta phacae	Control	96
+SF6	4Fluconazole153.6	1	1.1235	Ascochyta phacae	Control	256
+SF6	4Fluconazole153.6	2	0.6185	Ascochyta phacae	Control	256
+SF6	4Fluconazole153.6	3	1.0265	Ascochyta phacae	Control	256
+SF6	5Fluconazole375	1	0.602	Ascochyta phacae	Control	625
+SF6	5Fluconazole375	2	0.5215	Ascochyta phacae	Control	625
+SF6	5Fluconazole375	3	0.577	Ascochyta phacae	Control	625
+SF12	0DMSO	1	1.8135	Talaromyces sp.	Control	0
+SF12	0DMSO	2	1.767	Talaromyces sp.	Control	0
+SF12	0DMSO	3	1.85	Talaromyces sp.	Control	0
+SF12	0Fluconazole3	1	1.8305	Talaromyces sp.	Control	3
+SF12	0Fluconazole3	2	1.7555	Talaromyces sp.	Control	3
+SF12	0Fluconazole3	3	1.8805	Talaromyces sp.	Control	3
+SF12	1Fluconazole9.6	1	1.4335	Talaromyces sp.	Control	16
+SF12	1Fluconazole9.6	2	1.6165	Talaromyces sp.	Control	16
+SF12	1Fluconazole9.6	3	1.4085	Talaromyces sp.	Control	16
+SF12	2Fluconazole19.2	1	1.7335	Talaromyces sp.	Control	32
+SF12	2Fluconazole19.2	2	1.186	Talaromyces sp.	Control	32
+SF12	2Fluconazole19.2	3	1.7665	Talaromyces sp.	Control	32
+SF12	3Fluconazole57.6	1	1.5775	Talaromyces sp.	Control	96
+SF12	3Fluconazole57.6	2	1.703	Talaromyces sp.	Control	96
+SF12	3Fluconazole57.6	3	1.636	Talaromyces sp.	Control	96
+SF12	4Fluconazole153.6	1	1.631	Talaromyces sp.	Control	256
+SF12	4Fluconazole153.6	2	1.6975	Talaromyces sp.	Control	256
+SF12	4Fluconazole153.6	3	1.5945	Talaromyces sp.	Control	256
+SF12	5Fluconazole375	1	1.375	Talaromyces sp.	Control	625
+SF12	5Fluconazole375	2	1.561	Talaromyces sp.	Control	625
+SF12	5Fluconazole375	3	1.411	Talaromyces sp.	Control	625
+SF19	0DMSO	1	4.117	P. aff. chrysogenum	Control	0
+SF19	0DMSO	2	4.216	P. aff. chrysogenum	Control	0
+SF19	0DMSO	3	4.2445	P. aff. chrysogenum	Control	0
+SF19	0Fluconazole3	1	3.053	P. aff. chrysogenum	Control	3
+SF19	0Fluconazole3	2	2.9705	P. aff. chrysogenum	Control	3
+SF19	0Fluconazole3	3	3.037	P. aff. chrysogenum	Control	3
+SF19	1Fluconazole9.6	1	2.961	P. aff. chrysogenum	Control	16
+SF19	1Fluconazole9.6	2	2.872	P. aff. chrysogenum	Control	16
+SF19	1Fluconazole9.6	3	3.0495	P. aff. chrysogenum	Control	16
+SF19	2Fluconazole19.2	1	2.8595	P. aff. chrysogenum	Control	32
+SF19	2Fluconazole19.2	2	3.0945	P. aff. chrysogenum	Control	32
+SF19	2Fluconazole19.2	3	2.945	P. aff. chrysogenum	Control	32
+SF19	3Fluconazole57.6	1	0.556	P. aff. chrysogenum	Control	96
+SF19	3Fluconazole57.6	2	2.656	P. aff. chrysogenum	Control	96
+SF19	3Fluconazole57.6	3	2.656	P. aff. chrysogenum	Control	96
+SF19	4Fluconazole153.6	1	1.6015	P. aff. chrysogenum	Control	256
+SF19	4Fluconazole153.6	2	2.046	P. aff. chrysogenum	Control	256
+SF19	4Fluconazole153.6	3	2.2875	P. aff. chrysogenum	Control	256
+SF19	5Fluconazole375	1	1.7945	P. aff. chrysogenum	Control	625
+SF19	5Fluconazole375	2	1.7855	P. aff. chrysogenum	Control	625
+SF19	5Fluconazole375	3	1.8525	P. aff. chrysogenum	Control	625
+SF42	0DMSO	1	2.5985	P. aff. spathulatum	Control	0
+SF42	0DMSO	2	2.6395	P. aff. spathulatum	Control	0
+SF42	0DMSO	3	2.5695	P. aff. spathulatum	Control	0
+SF42	0Fluconazole3	1	2.3315	P. aff. spathulatum	Control	3
+SF42	0Fluconazole3	2	2.281	P. aff. spathulatum	Control	3
+SF42	0Fluconazole3	3	2.2845	P. aff. spathulatum	Control	3
+SF42	1Fluconazole9.6	1	2.2425	P. aff. spathulatum	Control	16
+SF42	1Fluconazole9.6	2	2.411	P. aff. spathulatum	Control	16
+SF42	1Fluconazole9.6	3	2.2745	P. aff. spathulatum	Control	16
+SF42	2Fluconazole19.2	1	2.1005	P. aff. spathulatum	Control	32
+SF42	2Fluconazole19.2	2	2.3855	P. aff. spathulatum	Control	32
+SF42	2Fluconazole19.2	3	2.544	P. aff. spathulatum	Control	32
+SF42	3Fluconazole57.6	1	2.011	P. aff. spathulatum	Control	96
+SF42	3Fluconazole57.6	2	2.103	P. aff. spathulatum	Control	96
+SF42	3Fluconazole57.6	3	2.2365	P. aff. spathulatum	Control	96
+SF42	4Fluconazole153.6	1	1.9545	P. aff. spathulatum	Control	256
+SF42	4Fluconazole153.6	2	2.059	P. aff. spathulatum	Control	256
+SF42	4Fluconazole153.6	3	2.157	P. aff. spathulatum	Control	256
+SF42	5Fluconazole375	1	1.9635	P. aff. spathulatum	Control	625
+SF42	5Fluconazole375	2	2.0715	P. aff. spathulatum	Control	625
+SF42	5Fluconazole375	3	2.094	P. aff. spathulatum	Control	625
+SF71	0DMSO	1	1.7045	Ramularia sp.	Control	0
+SF71	0DMSO	2	1.8605	Ramularia sp.	Control	0
+SF71	0DMSO	3	1.009	Ramularia sp.	Control	0
+SF71	0Fluconazole3	1	1.7565	Ramularia sp.	Control	3
+SF71	0Fluconazole3	2	1.6695	Ramularia sp.	Control	3
+SF71	0Fluconazole3	3	1.0435	Ramularia sp.	Control	3
+SF71	1Fluconazole9.6	1	1.27	Ramularia sp.	Control	16
+SF71	1Fluconazole9.6	2	1.148	Ramularia sp.	Control	16
+SF71	1Fluconazole9.6	3	1.3045	Ramularia sp.	Control	16
+SF71	2Fluconazole19.2	1	0.8525	Ramularia sp.	Control	32
+SF71	2Fluconazole19.2	2	1.061	Ramularia sp.	Control	32
+SF71	2Fluconazole19.2	3	0.9045	Ramularia sp.	Control	32
+SF71	3Fluconazole57.6	1	0.557	Ramularia sp.	Control	96
+SF71	3Fluconazole57.6	2	0.5915	Ramularia sp.	Control	96
+SF71	3Fluconazole57.6	3	0.487	Ramularia sp.	Control	96
+SF71	4Fluconazole153.6	1	0.539	Ramularia sp.	Control	256
+SF71	4Fluconazole153.6	2	0.626	Ramularia sp.	Control	256
+SF71	4Fluconazole153.6	3	0.626	Ramularia sp.	Control	256
+SF71	5Fluconazole375	1	0.452	Ramularia sp.	Control	625
+SF71	5Fluconazole375	2	0.452	Ramularia sp.	Control	625
+SF71	5Fluconazole375	3	0.522	Ramularia sp.	Control	625
+SF118	0DMSO	1	6.531	Aspergillus fumigatus	Fluconazole	0
+SF118	0DMSO	2	6.348	Aspergillus fumigatus	Fluconazole	0
+SF118	0DMSO	3	6.039	Aspergillus fumigatus	Fluconazole	0
+SF118	0Fluconazole3	1	5.6615	Aspergillus fumigatus	Fluconazole	3
+SF118	0Fluconazole3	2	5.7305	Aspergillus fumigatus	Fluconazole	3
+SF118	0Fluconazole3	3	5.6615	Aspergillus fumigatus	Fluconazole	3
+SF118	1Fluconazole9.6	1	4.8555	Aspergillus fumigatus	Fluconazole	16
+SF118	1Fluconazole9.6	2	4.7695	Aspergillus fumigatus	Fluconazole	16
+SF118	1Fluconazole9.6	3	4.8725	Aspergillus fumigatus	Fluconazole	16
+SF118	2Fluconazole19.2	1	4.495	Aspergillus fumigatus	Fluconazole	32
+SF118	2Fluconazole19.2	2	4.4265	Aspergillus fumigatus	Fluconazole	32
+SF118	2Fluconazole19.2	3	4.512	Aspergillus fumigatus	Fluconazole	32
+SF118	3Fluconazole57.6	1	3.294	Aspergillus fumigatus	Fluconazole	96
+SF118	3Fluconazole57.6	2	3.397	Aspergillus fumigatus	Fluconazole	96
+SF118	3Fluconazole57.6	3	3.2765	Aspergillus fumigatus	Fluconazole	96
+SF118	4Fluconazole153.6	1	2.9855	Aspergillus fumigatus	Fluconazole	256
+SF118	4Fluconazole153.6	2	2.9165	Aspergillus fumigatus	Fluconazole	256
+SF118	4Fluconazole153.6	3	2.917	Aspergillus fumigatus	Fluconazole	256
+SF118	5Fluconazole375	1	2.385	Aspergillus fumigatus	Fluconazole	625
+SF118	5Fluconazole375	2	2.299	Aspergillus fumigatus	Fluconazole	625
+SF118	5Fluconazole375	3	2.385	Aspergillus fumigatus	Fluconazole	625
+SF34	0DMSO	1	3.4225	P. aff. olsonii	Control	0
+SF34	0DMSO	2	3.384	P. aff. olsonii	Control	0
+SF34	0DMSO	3	3.384	P. aff. olsonii	Control	0
+SF34	0Fluconazole3	1	3.055	P. aff. olsonii	Control	3
+SF34	0Fluconazole3	2	3.21	P. aff. olsonii	Control	3
+SF34	0Fluconazole3	3	3.094	P. aff. olsonii	Control	3
+SF34	1Fluconazole9.6	1	3.2295	P. aff. olsonii	Control	16
+SF34	1Fluconazole9.6	2	3.1715	P. aff. olsonii	Control	16
+SF34	1Fluconazole9.6	3	3.191	P. aff. olsonii	Control	16
+SF34	2Fluconazole19.2	1	2.843	P. aff. olsonii	Control	32
+SF34	2Fluconazole19.2	2	3.1135	P. aff. olsonii	Control	32
+SF34	2Fluconazole19.2	3	2.9395	P. aff. olsonii	Control	32
+SF34	3Fluconazole57.6	1	2.9395	P. aff. olsonii	Control	96
+SF34	3Fluconazole57.6	2	2.9395	P. aff. olsonii	Control	96
+SF34	3Fluconazole57.6	3	2.8425	P. aff. olsonii	Control	96
+SF34	4Fluconazole153.6	1	2.4945	P. aff. olsonii	Control	256
+SF34	4Fluconazole153.6	2	2.572	P. aff. olsonii	Control	256
+SF34	4Fluconazole153.6	3	2.63	P. aff. olsonii	Control	256
+SF34	5Fluconazole375	1	2.2045	P. aff. olsonii	Control	625
+SF34	5Fluconazole375	2	2.456	P. aff. olsonii	Control	625
+SF34	5Fluconazole375	3	2.262	P. aff. olsonii	Control	625
+SF61	0DMSO	1	2.7825	P. aff. nudgee	Fluconazole	0
+SF61	0DMSO	2	2.8875	P. aff. nudgee	Fluconazole	0
+SF61	0DMSO	3	3.115	P. aff. nudgee	Fluconazole	0
+SF61	0Fluconazole3	1	2.8175	P. aff. nudgee	Fluconazole	3
+SF61	0Fluconazole3	2	2.2925	P. aff. nudgee	Fluconazole	3
+SF61	0Fluconazole3	3	2.7125	P. aff. nudgee	Fluconazole	3
+SF61	1Fluconazole9.6	1	2.6775	P. aff. nudgee	Fluconazole	16
+SF61	1Fluconazole9.6	2	2.7005	P. aff. nudgee	Fluconazole	16
+SF61	1Fluconazole9.6	3	2.4675	P. aff. nudgee	Fluconazole	16
+SF61	2Fluconazole19.2	1	2.2225	P. aff. nudgee	Fluconazole	32
+SF61	2Fluconazole19.2	2	2.5025	P. aff. nudgee	Fluconazole	32
+SF61	2Fluconazole19.2	3	2.2575	P. aff. nudgee	Fluconazole	32
+SF61	3Fluconazole57.6	1	1.7675	P. aff. nudgee	Fluconazole	96
+SF61	3Fluconazole57.6	2	1.75	P. aff. nudgee	Fluconazole	96
+SF61	3Fluconazole57.6	3	2.1175	P. aff. nudgee	Fluconazole	96
+SF61	4Fluconazole153.6	1	1.4	P. aff. nudgee	Fluconazole	256
+SF61	4Fluconazole153.6	2	1.155	P. aff. nudgee	Fluconazole	256
+SF61	4Fluconazole153.6	3	1.0325	P. aff. nudgee	Fluconazole	256
+SF61	5Fluconazole375	1	0.665	P. aff. nudgee	Fluconazole	625
+SF61	5Fluconazole375	2	0.6825	P. aff. nudgee	Fluconazole	625
+SF61	5Fluconazole375	3	0.7	P. aff. nudgee	Fluconazole	625
+SF48	0DMSO	1	4.1055	P. chrysogenum	Fluconazole	0
+SF48	0DMSO	2	4.053	P. chrysogenum	Fluconazole	0
+SF48	0DMSO	3	3.947	P. chrysogenum	Fluconazole	0
+SF48	0Fluconazole3	1	3.718	P. chrysogenum	Fluconazole	3
+SF48	0Fluconazole3	2	3.665	P. chrysogenum	Fluconazole	3
+SF48	0Fluconazole3	3	4.0885	P. chrysogenum	Fluconazole	3
+SF48	1Fluconazole9.6	1	3.137	P. chrysogenum	Fluconazole	16
+SF48	1Fluconazole9.6	2	2.9605	P. chrysogenum	Fluconazole	16
+SF48	1Fluconazole9.6	3	2.9605	P. chrysogenum	Fluconazole	16
+SF48	2Fluconazole19.2	1	2.943	P. chrysogenum	Fluconazole	32
+SF48	2Fluconazole19.2	2	2.608	P. chrysogenum	Fluconazole	32
+SF48	2Fluconazole19.2	3	2.978	P. chrysogenum	Fluconazole	32
+SF48	3Fluconazole57.6	1	2.837	P. chrysogenum	Fluconazole	96
+SF48	3Fluconazole57.6	2	2.643	P. chrysogenum	Fluconazole	96
+SF48	3Fluconazole57.6	3	2.6785	P. chrysogenum	Fluconazole	96
+SF48	4Fluconazole153.6	1	2.379	P. chrysogenum	Fluconazole	256
+SF48	4Fluconazole153.6	2	2.502	P. chrysogenum	Fluconazole	256
+SF48	4Fluconazole153.6	3	2.555	P. chrysogenum	Fluconazole	256
+SF48	5Fluconazole375	1	2.15	P. chrysogenum	Fluconazole	625
+SF48	5Fluconazole375	2	2.044	P. chrysogenum	Fluconazole	625
+SF48	5Fluconazole375	3	2.009	P. chrysogenum	Fluconazole	625
+SF32	0DMSO	1	2.5385	P. aff. brevicompactum	Fluconazole	0
+SF32	0DMSO	2	1.969	P. aff. brevicompactum	Fluconazole	0
+SF32	0DMSO	3	2.3255	P. aff. brevicompactum	Fluconazole	0
+SF32	0Fluconazole3	1	2.159	P. aff. brevicompactum	Fluconazole	3
+SF32	0Fluconazole3	2	2.325	P. aff. brevicompactum	Fluconazole	3
+SF32	0Fluconazole3	3	2.42	P. aff. brevicompactum	Fluconazole	3
+SF32	1Fluconazole9.6	1	2.1175	P. aff. brevicompactum	Fluconazole	16
+SF32	1Fluconazole9.6	2	2.3665	P. aff. brevicompactum	Fluconazole	16
+SF32	1Fluconazole9.6	3	2.242	P. aff. brevicompactum	Fluconazole	16
+SF32	2Fluconazole19.2	1	2.2065	P. aff. brevicompactum	Fluconazole	32
+SF32	2Fluconazole19.2	2	2.1175	P. aff. brevicompactum	Fluconazole	32
+SF32	2Fluconazole19.2	3	1.9925	P. aff. brevicompactum	Fluconazole	32
+SF32	3Fluconazole57.6	1	2.1705	P. aff. brevicompactum	Fluconazole	96
+SF32	3Fluconazole57.6	2	1.904	P. aff. brevicompactum	Fluconazole	96
+SF32	3Fluconazole57.6	3	2.0105	P. aff. brevicompactum	Fluconazole	96
+SF32	4Fluconazole153.6	1	1.5305	P. aff. brevicompactum	Fluconazole	256
+SF32	4Fluconazole153.6	2	1.6545	P. aff. brevicompactum	Fluconazole	256
+SF32	4Fluconazole153.6	3	1.8685	P. aff. brevicompactum	Fluconazole	256
+SF32	5Fluconazole375	1	1.815	P. aff. brevicompactum	Fluconazole	625
+SF32	5Fluconazole375	2	1.7435	P. aff. brevicompactum	Fluconazole	625
+SF32	5Fluconazole375	3	1.7975	P. aff. brevicompactum	Fluconazole	625
+SF155	0DMSO	1	2.616	Phialemonium sp.	Control	0
+SF155	0DMSO	2	2.352	Phialemonium sp.	Control	0
+SF155	0DMSO	3	2.232	Phialemonium sp.	Control	0
+SF155	0Fluconazole3	1	2.136	Phialemonium sp.	Control	3
+SF155	0Fluconazole3	2	2.304	Phialemonium sp.	Control	3
+SF155	0Fluconazole3	3	2.52	Phialemonium sp.	Control	3
+SF155	1Fluconazole9.6	1	2.016	Phialemonium sp.	Control	16
+SF155	1Fluconazole9.6	2	2.286	Phialemonium sp.	Control	16
+SF155	1Fluconazole9.6	3	2.286	Phialemonium sp.	Control	16
+SF155	2Fluconazole19.2	1	2.43	Phialemonium sp.	Control	32
+SF155	2Fluconazole19.2	2	1.872	Phialemonium sp.	Control	32
+SF155	2Fluconazole19.2	3	1.494	Phialemonium sp.	Control	32
+SF155	3Fluconazole57.6	1	1.782	Phialemonium sp.	Control	96
+SF155	3Fluconazole57.6	2	1.152	Phialemonium sp.	Control	96
+SF155	3Fluconazole57.6	3	1.404	Phialemonium sp.	Control	96
+SF155	4Fluconazole153.6	1	1.008	Phialemonium sp.	Control	256
+SF155	4Fluconazole153.6	2	1.044	Phialemonium sp.	Control	256
+SF155	4Fluconazole153.6	3	1.026	Phialemonium sp.	Control	256
+SF155	5Fluconazole375	1	1.134	Phialemonium sp.	Control	625
+SF155	5Fluconazole375	2	1.206	Phialemonium sp.	Control	625
+SF155	5Fluconazole375	3	1.35	Phialemonium sp.	Control	625
+SF76	0DMSO	1	1.9035	Pseudogymnoascus sp.	Fluconazole	0
+SF76	0DMSO	2	1.958	Pseudogymnoascus sp.	Fluconazole	0
+SF76	0DMSO	3	1.886	Pseudogymnoascus sp.	Fluconazole	0
+SF76	0Fluconazole3	1	1.9435	Pseudogymnoascus sp.	Fluconazole	3
+SF76	0Fluconazole3	2	1.8775	Pseudogymnoascus sp.	Fluconazole	3
+SF76	0Fluconazole3	3	1.8745	Pseudogymnoascus sp.	Fluconazole	3
+SF76	1Fluconazole9.6	1	1.4385	Pseudogymnoascus sp.	Fluconazole	16
+SF76	1Fluconazole9.6	2	1.3405	Pseudogymnoascus sp.	Fluconazole	16
+SF76	1Fluconazole9.6	3	1.375	Pseudogymnoascus sp.	Fluconazole	16
+SF76	2Fluconazole19.2	1	1.305	Pseudogymnoascus sp.	Fluconazole	32
+SF76	2Fluconazole19.2	2	1.2595	Pseudogymnoascus sp.	Fluconazole	32
+SF76	2Fluconazole19.2	3	1.343	Pseudogymnoascus sp.	Fluconazole	32
+SF76	3Fluconazole57.6	1	0.965	Pseudogymnoascus sp.	Fluconazole	96
+SF76	3Fluconazole57.6	2	0.9765	Pseudogymnoascus sp.	Fluconazole	96
+SF76	3Fluconazole57.6	3	1.0915	Pseudogymnoascus sp.	Fluconazole	96
+SF76	4Fluconazole153.6	1	0.6875	Pseudogymnoascus sp.	Fluconazole	256
+SF76	4Fluconazole153.6	2	0.7105	Pseudogymnoascus sp.	Fluconazole	256
+SF76	4Fluconazole153.6	3	0.6645	Pseudogymnoascus sp.	Fluconazole	256
+SF76	5Fluconazole375	1	0.5605	Pseudogymnoascus sp.	Fluconazole	625
+SF76	5Fluconazole375	2	0.5545	Pseudogymnoascus sp.	Fluconazole	625
+SF76	5Fluconazole375	3	0.514	Pseudogymnoascus sp.	Fluconazole	625
+SF23	0DMSO	1	4.643	Ascochyta phacae	Control	0
+SF23	0DMSO	2	4.5955	Ascochyta phacae	Control	0
+SF23	0DMSO	3	4.6425	Ascochyta phacae	Control	0
+SF23	0Fluconazole3	1	4.3335	Ascochyta phacae	Control	3
+SF23	0Fluconazole3	2	4.5955	Ascochyta phacae	Control	3
+SF23	0Fluconazole3	3	4.3335	Ascochyta phacae	Control	3
+SF23	1Fluconazole9.6	1	3.3035	Ascochyta phacae	Control	16
+SF23	1Fluconazole9.6	2	3.482	Ascochyta phacae	Control	16
+SF23	1Fluconazole9.6	3	3.3215	Ascochyta phacae	Control	16
+SF23	2Fluconazole19.2	1	3.036	Ascochyta phacae	Control	32
+SF23	2Fluconazole19.2	2	2.982	Ascochyta phacae	Control	32
+SF23	2Fluconazole19.2	3	2.8035	Ascochyta phacae	Control	32
+SF23	3Fluconazole57.6	1	1.964	Ascochyta phacae	Control	96
+SF23	3Fluconazole57.6	2	1.625	Ascochyta phacae	Control	96
+SF23	3Fluconazole57.6	3	1.625	Ascochyta phacae	Control	96
+SF23	4Fluconazole153.6	1	0.768	Ascochyta phacae	Control	256
+SF23	4Fluconazole153.6	2	0.875	Ascochyta phacae	Control	256
+SF23	4Fluconazole153.6	3	0.8035	Ascochyta phacae	Control	256
+SF23	5Fluconazole375	1	0.589	Ascochyta phacae	Control	625
+SF23	5Fluconazole375	2	0.4825	Ascochyta phacae	Control	625
+SF23	5Fluconazole375	3	0.411	Ascochyta phacae	Control	625
+SF2	0DMSO	1	2.645	P. aff. spathulatum	Control	0
+SF2	0DMSO	2	2.7175	P. aff. spathulatum	Control	0
+SF2	0DMSO	3	2.6085	P. aff. spathulatum	Control	0
+SF2	0Fluconazole3	1	2.8265	P. aff. spathulatum	Control	3
+SF2	0Fluconazole3	2	2.6085	P. aff. spathulatum	Control	3
+SF2	0Fluconazole3	3	2.536	P. aff. spathulatum	Control	3
+SF2	1Fluconazole9.6	1	2.6995	P. aff. spathulatum	Control	16
+SF2	1Fluconazole9.6	2	2.6085	P. aff. spathulatum	Control	16
+SF2	1Fluconazole9.6	3	2.663	P. aff. spathulatum	Control	16
+SF2	2Fluconazole19.2	1	2.488	P. aff. spathulatum	Control	32
+SF2	2Fluconazole19.2	2	2.548	P. aff. spathulatum	Control	32
+SF2	2Fluconazole19.2	3	2.343	P. aff. spathulatum	Control	32
+SF2	3Fluconazole57.6	1	2.5365	P. aff. spathulatum	Control	96
+SF2	3Fluconazole57.6	2	2.5725	P. aff. spathulatum	Control	96
+SF2	3Fluconazole57.6	3	2.524	P. aff. spathulatum	Control	96
+SF2	4Fluconazole153.6	1	2.367	P. aff. spathulatum	Control	256
+SF2	4Fluconazole153.6	2	2.3185	P. aff. spathulatum	Control	256
+SF2	4Fluconazole153.6	3	2.4635	P. aff. spathulatum	Control	256
+SF2	5Fluconazole375	1	2.0775	P. aff. spathulatum	Control	625
+SF2	5Fluconazole375	2	2.319	P. aff. spathulatum	Control	625
+SF2	5Fluconazole375	3	2.053	P. aff. spathulatum	Control	625
+SF55	0DMSO	1	2.949	P. aff. anthracinoglaciei	Control	0
+SF55	0DMSO	2	2.8945	P. aff. anthracinoglaciei	Control	0
+SF55	0DMSO	3	2.967	P. aff. anthracinoglaciei	Control	0
+SF55	0Fluconazole3	1	2.6945	P. aff. anthracinoglaciei	Control	3
+SF55	0Fluconazole3	2	2.6575	P. aff. anthracinoglaciei	Control	3
+SF55	0Fluconazole3	3	2.694	P. aff. anthracinoglaciei	Control	3
+SF55	1Fluconazole9.6	1	1.966	P. aff. anthracinoglaciei	Control	16
+SF55	1Fluconazole9.6	2	1.911	P. aff. anthracinoglaciei	Control	16
+SF55	1Fluconazole9.6	3	1.802	P. aff. anthracinoglaciei	Control	16
+SF55	2Fluconazole19.2	1	1.9295	P. aff. anthracinoglaciei	Control	32
+SF55	2Fluconazole19.2	2	1.8565	P. aff. anthracinoglaciei	Control	32
+SF55	2Fluconazole19.2	3	1.966	P. aff. anthracinoglaciei	Control	32
+SF55	3Fluconazole57.6	1	1.93	P. aff. anthracinoglaciei	Control	96
+SF55	3Fluconazole57.6	2	1.875	P. aff. anthracinoglaciei	Control	96
+SF55	3Fluconazole57.6	3	2.0205	P. aff. anthracinoglaciei	Control	96
+SF55	4Fluconazole153.6	1	1.875	P. aff. anthracinoglaciei	Control	256
+SF55	4Fluconazole153.6	2	1.7115	P. aff. anthracinoglaciei	Control	256
+SF55	4Fluconazole153.6	3	1.8385	P. aff. anthracinoglaciei	Control	256
+SF55	5Fluconazole375	1	2.0025	P. aff. anthracinoglaciei	Control	625
+SF55	5Fluconazole375	2	1.9115	P. aff. anthracinoglaciei	Control	625
+SF55	5Fluconazole375	3	2.057	P. aff. anthracinoglaciei	Control	625
+SF51	0DMSO	1	3.422	P. aff. olsonii	Control	0
+SF51	0DMSO	2	2.9455	P. aff. olsonii	Control	0
+SF51	0DMSO	3	3.3975	P. aff. olsonii	Control	0
+SF51	0Fluconazole3	1	3.488	P. aff. olsonii	Control	3
+SF51	0Fluconazole3	2	2.964	P. aff. olsonii	Control	3
+SF51	0Fluconazole3	3	2.6265	P. aff. olsonii	Control	3
+SF51	1Fluconazole9.6	1	3.1085	P. aff. olsonii	Control	16
+SF51	1Fluconazole9.6	2	2.916	P. aff. olsonii	Control	16
+SF51	1Fluconazole9.6	3	3.2775	P. aff. olsonii	Control	16
+SF51	2Fluconazole19.2	1	3.072	P. aff. olsonii	Control	32
+SF51	2Fluconazole19.2	2	3.036	P. aff. olsonii	Control	32
+SF51	2Fluconazole19.2	3	3.036	P. aff. olsonii	Control	32
+SF51	3Fluconazole57.6	1	3.018	P. aff. olsonii	Control	96
+SF51	3Fluconazole57.6	2	3	P. aff. olsonii	Control	96
+SF51	3Fluconazole57.6	3	3.1445	P. aff. olsonii	Control	96
+SF51	4Fluconazole153.6	1	2.8375	P. aff. olsonii	Control	256
+SF51	4Fluconazole153.6	2	2.801	P. aff. olsonii	Control	256
+SF51	4Fluconazole153.6	3	2.3675	P. aff. olsonii	Control	256
+SF51	5Fluconazole375	1	2.506	P. aff. olsonii	Control	625
+SF51	5Fluconazole375	2	2.434	P. aff. olsonii	Control	625
+SF51	5Fluconazole375	3	2.53	P. aff. olsonii	Control	625
+SF125	0DMSO	1	2.136	Phialemonium sp.	Fluconazole	0
+SF125	0DMSO	2	1.9745	Phialemonium sp.	Fluconazole	0
+SF125	0DMSO	3	1.849	Phialemonium sp.	Fluconazole	0
+SF125	0Fluconazole3	1	1.041	Phialemonium sp.	Fluconazole	3
+SF125	0Fluconazole3	2	1.2025	Phialemonium sp.	Fluconazole	3
+SF125	0Fluconazole3	3	1.2025	Phialemonium sp.	Fluconazole	3
+SF125	1Fluconazole9.6	1	1.1485	Phialemonium sp.	Fluconazole	16
+SF125	1Fluconazole9.6	2	1.149	Phialemonium sp.	Fluconazole	16
+SF125	1Fluconazole9.6	3	0.9575	Phialemonium sp.	Fluconazole	16
+SF125	2Fluconazole19.2	1	0.8795	Phialemonium sp.	Fluconazole	32
+SF125	2Fluconazole19.2	2	0.987	Phialemonium sp.	Fluconazole	32
+SF125	2Fluconazole19.2	3	1.059	Phialemonium sp.	Fluconazole	32
+SF125	3Fluconazole57.6	1	0.9335	Phialemonium sp.	Fluconazole	96
+SF125	3Fluconazole57.6	2	0.808	Phialemonium sp.	Fluconazole	96
+SF125	3Fluconazole57.6	3	0.9335	Phialemonium sp.	Fluconazole	96
+SF125	4Fluconazole153.6	1	0.754	Phialemonium sp.	Fluconazole	256
+SF125	4Fluconazole153.6	2	0.5385	Phialemonium sp.	Fluconazole	256
+SF125	4Fluconazole153.6	3	0.5565	Phialemonium sp.	Fluconazole	256
+SF125	5Fluconazole375	1	0.646	Phialemonium sp.	Fluconazole	625
+SF125	5Fluconazole375	2	0.742	Phialemonium sp.	Fluconazole	625
+SF125	5Fluconazole375	3	0.838	Phialemonium sp.	Fluconazole	625
+SF56	0DMSO	1	2.5745	P. bialowiezense	Fluconazole	0
+SF56	0DMSO	2	2.4155	P. bialowiezense	Fluconazole	0
+SF56	0DMSO	3	2.681	P. bialowiezense	Fluconazole	0
+SF56	0Fluconazole3	1	1.941	P. bialowiezense	Fluconazole	3
+SF56	0Fluconazole3	2	2.0705	P. bialowiezense	Fluconazole	3
+SF56	0Fluconazole3	3	1.8185	P. bialowiezense	Fluconazole	3
+SF56	1Fluconazole9.6	1	1.9975	P. bialowiezense	Fluconazole	16
+SF56	1Fluconazole9.6	2	1.7585	P. bialowiezense	Fluconazole	16
+SF56	1Fluconazole9.6	3	1.566	P. bialowiezense	Fluconazole	16
+SF56	2Fluconazole19.2	1	1.858	P. bialowiezense	Fluconazole	32
+SF56	2Fluconazole19.2	2	1.9375	P. bialowiezense	Fluconazole	32
+SF56	2Fluconazole19.2	3	1.838	P. bialowiezense	Fluconazole	32
+SF56	3Fluconazole57.6	1	1.334	P. bialowiezense	Fluconazole	96
+SF56	3Fluconazole57.6	2	1.2675	P. bialowiezense	Fluconazole	96
+SF56	3Fluconazole57.6	3	1.42	P. bialowiezense	Fluconazole	96
+SF56	4Fluconazole153.6	1	0.9095	P. bialowiezense	Fluconazole	256
+SF56	4Fluconazole153.6	2	0.816	P. bialowiezense	Fluconazole	256
+SF56	4Fluconazole153.6	3	0.7695	P. bialowiezense	Fluconazole	256
+SF56	5Fluconazole375	1	0.5245	P. bialowiezense	Fluconazole	625
+SF56	5Fluconazole375	2	0.544	P. bialowiezense	Fluconazole	625
+SF56	5Fluconazole375	3	0.551	P. bialowiezense	Fluconazole	625
